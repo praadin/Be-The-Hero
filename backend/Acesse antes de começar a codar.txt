@@ -1,0 +1,21 @@
+Entidades:
+    - ONG
+    - Caso(incident)
+
+Funcionalidade:
+    - Login da ONG
+    - Logout da ONG
+    - Cadastro da ONG
+    - Cadastrar novos casos
+    - Deletar casos
+    - Listar casos especificos de uma ONG
+    - Listar todos os casos(mobile)
+    - Entrar em contato com a ONG(mobile)
+
+
+
+
+
+
+PAREI :
+CRIANDO A BASE DA APLICAÇÃO: 1:25:00
